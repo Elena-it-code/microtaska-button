@@ -1,0 +1,10 @@
+.App {
+  padding: 30px;
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.App > div {
+
+}
