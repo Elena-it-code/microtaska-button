@@ -4,4 +4,4 @@ MICROTASKS SPRINT 01
 02 Universal Button
 03 Hook UseState()
 04 Method filter()
-05 FullInpun (input + button)
+05 FullInput (input + button)
