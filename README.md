@@ -5,3 +5,4 @@ MICROTASKS SPRINT 01
 03 Hook UseState()
 04 Method filter()
 05 FullInput (input + button)
+06 Destructuring.test.tsx
